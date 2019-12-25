@@ -27,6 +27,7 @@
 		2161135B23A741B20064C0C6 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2161135A23A741B20064C0C6 /* Utilities.swift */; };
 		2161135F23A8709F0064C0C6 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2161135E23A8709F0064C0C6 /* Constants.swift */; };
 		2161136223A8890F0064C0C6 /* summertime.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2161136123A8890F0064C0C6 /* summertime.mp4 */; };
+		21778A0F23B2FBBD00892E8C /* MessagerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21778A0E23B2FBBD00892E8C /* MessagerViewController.swift */; };
 		2178C5DC23AB28F500C36DA7 /* ForGotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2178C5DB23AB28F500C36DA7 /* ForGotPasswordViewController.swift */; };
 		2194134A23AA29750097F412 /* background_galaxy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2194134923AA29740097F412 /* background_galaxy.mp4 */; };
 		21B68FC223ACB967005CBFA0 /* ChatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B68FC123ACB967005CBFA0 /* ChatsViewController.swift */; };
@@ -58,6 +59,7 @@
 		2161135A23A741B20064C0C6 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		2161135E23A8709F0064C0C6 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		2161136123A8890F0064C0C6 /* summertime.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = summertime.mp4; sourceTree = "<group>"; };
+		21778A0E23B2FBBD00892E8C /* MessagerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagerViewController.swift; sourceTree = "<group>"; };
 		2178C5DB23AB28F500C36DA7 /* ForGotPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForGotPasswordViewController.swift; sourceTree = "<group>"; };
 		2194134923AA29740097F412 /* background_galaxy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = background_galaxy.mp4; sourceTree = "<group>"; };
 		21B68FC123ACB967005CBFA0 /* ChatsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatsViewController.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				2109511623B1C46F009AA068 /* UpdateProfileViewController.swift */,
 				2109511823B1C487009AA068 /* ChangePasswordViewController.swift */,
 				2109511A23B1C49C009AA068 /* VideoSettingsViewController.swift */,
+				21778A0E23B2FBBD00892E8C /* MessagerViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -313,6 +316,7 @@
 				2109511123B0BE11009AA068 /* RequestViewController.swift in Sources */,
 				2109511923B1C487009AA068 /* ChangePasswordViewController.swift in Sources */,
 				2109511523B0BE8F009AA068 /* ContactsTabBarViewController.swift in Sources */,
+				21778A0F23B2FBBD00892E8C /* MessagerViewController.swift in Sources */,
 				2109510F23B0BE02009AA068 /* FriendsViewController.swift in Sources */,
 				2109511323B0BE1F009AA068 /* OutGoingViewController.swift in Sources */,
 				21B68FC623ACB9AB005CBFA0 /* SettingsViewController.swift in Sources */,
