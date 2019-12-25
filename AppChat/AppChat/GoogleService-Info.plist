@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1079327204074-vhtcohd553u5nqqgepuvdujselvnomn0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1079327204074-vhtcohd553u5nqqgepuvdujselvnomn0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTF6xPWVcLr7rVJ_TNwpu69XpKJ9jDElA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1079327204074</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jetart.AppChat</string>
+	<key>PROJECT_ID</key>
+	<string>appchatjetart</string>
+	<key>STORAGE_BUCKET</key>
+	<string>appchatjetart.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1079327204074:ios:c817fef344d82a86b3ad93</string>
+	<key>DATABASE_URL</key>
+	<string>https://appchatjetart.firebaseio.com</string>
+</dict>
+</plist>
